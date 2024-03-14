@@ -2,4 +2,5 @@ p {
     font-family: 'Ubuntu', sans-serif; /* Set the font-family to Ubuntu */
     font-weight: bold; /* Set the text to normal weight (not bold) */
         margin-top: 50px; /* Adjust the top and bottom margin as needed */
+        margin-bottom: 20px;
 }
